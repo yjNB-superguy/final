@@ -130,4 +130,4 @@ def main():
             st.write('You rated the recommended joke {percentage_of_total}% of the totle possible score.')
 
     if __name__ == '__main__':
-    main()
+        main()
